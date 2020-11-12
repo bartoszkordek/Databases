@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="laboratories/mongo-lab/src"/>
+	<classpathentry kind="lib" path="C:/Users/barto/Downloads/jar_files/mongo-java-driver-3.12.7.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
